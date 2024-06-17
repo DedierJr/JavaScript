@@ -1,0 +1,29 @@
+body {
+  padding: 25%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+}
+
+.btn{
+  height: 50px;
+  width: 70px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.div {
+  height: 200px;
+  width: 200px;
+  background-color: orangered;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
