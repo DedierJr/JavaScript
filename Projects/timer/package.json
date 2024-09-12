@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setup.js",
+  "bin": {
+    "meucomando": "./setup.js"
+  },
+  "scripts": {
+    "start": "node setup.js",
+    "dev": "npm run build-css && npm run watch-css",
+    "build-css": "npx sass ./assets/styles/style.sass ./assets/styles/style.css --no-source-map",
+    "watch-css": "npx sass --watch ./assets/styles/style.sass:./assets/styles/style.css --no-source-map & npx postcss ./assets/styles/style.css --use autoprefixer -d ./assets/styles/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.32.0",
+    "postcss-cli": "^8.3.1",
+    "autoprefixer": "^10.2.4"
+  }
+}
+

@@ -1,0 +1,64 @@
+{
+  "matches": [
+    {
+      "date": "2024-08-25",
+      "opponent": "Criciúma",
+      "competition": "Campeonato Brasileiro",
+      "result": "Grêmio 1-0 Criciúma"
+    },
+    {
+      "date": "2024-08-20",
+      "opponent": "Fluminense",
+      "competition": "Copa Libertadores",
+      "result": "Fluminense 2-1 Grêmio (4-2 nos pênaltis)"
+    },
+    {
+      "date": "2024-08-17",
+      "opponent": "Bahia",
+      "competition": "Campeonato Brasileiro",
+      "result": "Grêmio 0-2 Bahia"
+    },
+    {
+      "date": "2024-08-13",
+      "opponent": "Fluminense",
+      "competition": "Copa Libertadores",
+      "result": "Grêmio 2-1 Fluminense"
+    },
+    {
+      "date": "2024-08-10",
+      "opponent": "Cuiabá",
+      "competition": "Campeonato Brasileiro",
+      "result": "Grêmio 3-1 Cuiabá"
+    },
+    {
+      "date": "2024-08-07",
+      "opponent": "Corinthians",
+      "competition": "Copa do Brasil",
+      "result": "Grêmio 0-0 Corinthians"
+    },
+    {
+      "date": "2024-08-04",
+      "opponent": "Athletico-PR",
+      "competition": "Campeonato Brasileiro",
+      "result": "Grêmio 2-0 Athletico-PR"
+    },
+    {
+      "date": "2024-07-31",
+      "opponent": "Corinthians",
+      "competition": "Copa do Brasil",
+      "result": "Grêmio 0-0 Corinthians"
+    },
+    {
+      "date": "2024-07-28",
+      "opponent": "Vasco",
+      "competition": "Campeonato Brasileiro",
+      "result": "Grêmio 1-0 Vasco"
+    },
+    {
+      "date": "2024-07-25",
+      "opponent": "Corinthians",
+      "competition": "Campeonato Brasileiro",
+      "result": "Grêmio 2-2 Corinthians"
+    }
+  ]
+}

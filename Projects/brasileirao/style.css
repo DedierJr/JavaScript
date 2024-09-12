@@ -1,0 +1,39 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+  text-align: left;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+  color: #333;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+caption {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.winner {
+  background-color: rgba(0, 255, 0, 0.3);
+
+}
+.loser {
+  background-color: rgba(255, 0, 0, 0.3);
+}
